@@ -7,10 +7,10 @@ Now, let's dive into combinations. In the previous lab, we saw how the order was
 
 ## Learning objectives
 
-In this lab, you'll
+You will be able to:
 
-- practice on how to use combinations when the order is not important
-- you'll create (easy) functions for combinations and permutations
+- Practice how to use combinations when the order is not important
+- You'll create (easy) functions for combinations and permutations
 
 ## Let's get started
 
