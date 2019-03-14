@@ -3,14 +3,14 @@
 
 ## Introduction
 
-Now, let's dive into combinations. In the previous lab, we saw how the order was important. Cracking a code is one example, but what if the order doesn't matter, for example, when an engaged couple want to pick 3 wedding cakes from a list of 15? You'll need to use another technique here, and this is where combinations come in handy!
+Now, let's dive into combinations. In the previous lab, you saw how the order was important when using permutations. Cracking a code is one example, but what if the order doesn't matter, for example, when an engaged couple wants to pick 3 wedding cakes from a list of 15? You'll need to use another technique here, and this is where combinations come in handy!
 
-## Learning objectives
+## Objectives
 
-You will be able to:
+You will be able to: 
 
 - Practice how to use combinations when the order is not important
-- You'll create (easy) functions for combinations and permutations
+- Create (easy) functions for combinations and permutations
 
 ## Let's get started
 
@@ -78,15 +78,20 @@ scholarship_top_3
 
 
 
-## Some more combinations practice
+## Some More Practice using Combinations
 
-Imagine you have 6 consonants and 4 vowels witten on a pieces of paper in a bag. You'll draw 5 letters out of the bag. 
+Imagine you have 6 consonants and 4 vowels written on pieces of paper in a bag. You'll draw 5 letters out of the bag. 
 
 #### a. What is the probability that you draw exactly 2 consonants and 3 vowels when drawing 5 letters?
+
+Write the code for getting total number of ways of drawing 2 out of 6 and 3 out of 4 below
+
+** solution **
 
 The total number of ways of drawing 2 out of 6 and 3 out of 4 is equal to
 
 $\displaystyle\binom{6}{2} \times \displaystyle\binom{4}{3}$
+
 
 
 ```python
@@ -143,7 +148,7 @@ print("In total,",  total_words, "words with 2 consonants and 3 vowels can be fo
     In total, 7200.0 words with 2 consonants and 3 vowels can be formed from our existing letter pool.
 
 
-## Combinations: creating soccer teams
+## Combinations: Creating Soccer Teams
 We're holding a mini soccer tournament and 16 people are participating. We'd like to form 4 teams of 4. How many ways are there to do this?
 
 
