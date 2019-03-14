@@ -120,12 +120,7 @@ We're holding a mini soccer tournament and 16 people are participating. We'd lik
 
 
 ```python
-None
-```
-
-
-```python
-None  # the answer is 2627625.0
+# your code here  # the answer is 2627625.0
 ```
 
 ## Summary
