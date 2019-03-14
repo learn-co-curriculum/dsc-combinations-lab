@@ -3,9 +3,9 @@
 
 ## Introduction
 
-Now, let's dive into combinations. In the previous lab, we saw how the order was important. Cracking a code is one example, but what if the order doesn't matter, for example, when an engaged couple want to pick 3 wedding cakes from a list of 15? You'll need to use another technique here, and this is where combinations come in handy!
+Now, let's dive into combinations. In the previous lab, you saw how the order was important when using permutations. Cracking a code is one example, but what if the order doesn't matter, for example, when an engaged couple wants to pick 3 wedding cakes from a list of 15? You'll need to use another technique here, and this is where combinations come in handy!
 
-## Learning objectives
+## Objectives
 
 You will be able to: 
 
@@ -62,9 +62,9 @@ scholarship_top_3 = None
 scholarship_top_3
 ```
 
-## Some more combinations practice
+## Some More Practice using Combinations
 
-Imagine you have 6 consonants and 4 vowels witten on a pieces of paper in a bag. You'll draw 5 letters out of the bag. 
+Imagine you have 6 consonants and 4 vowels written on pieces of paper in a bag. You'll draw 5 letters out of the bag. 
 
 #### a. What is the probability that you draw exactly 2 consonants and 3 vowels when drawing 5 letters?
 
@@ -115,7 +115,7 @@ total_words = None
 print("In total,",  total_words, "words with 2 consonants and 3 vowels can be formed from our existing letter pool.")
 ```
 
-## Combinations: creating soccer teams
+## Combinations: Creating Soccer Teams
 We're holding a mini soccer tournament and 16 people are participating. We'd like to form 4 teams of 4. How many ways are there to do this?
 
 
