@@ -51,7 +51,7 @@ Flatiron School is holding a mini mathematics contest, and there are 9 people in
 
 ```python
 medal_top_3 = None
-medal_top_3
+medal_top_3 # 504.0
 ```
 
 #### b. Imagine Flatiron school granting the first three contestants a massive fruit basket. How many ways of selecting three people are there in this case?
@@ -59,7 +59,7 @@ medal_top_3
 
 ```python
 scholarship_top_3 = None
-scholarship_top_3
+scholarship_top_3 # 84.0
 ```
 
 ## Some More Practice using Combinations
@@ -87,7 +87,7 @@ The probability of drawing 2 consonants and 3 vowels when drawing 5 letters:
 
 
 ```python
-None
+None # 0.23809523809523808
 ```
 
 #### b. Out of 6 consonants and 4 vowels, how many words with 2 consonants and 3 vowels can be formed?
@@ -113,6 +113,7 @@ The total number of words with 2 consonants and 3 vowels then equals:
 ```python
 total_words = None
 print("In total,",  total_words, "words with 2 consonants and 3 vowels can be formed from our existing letter pool.")
+# In total, 7200.0 words with 2 consonants and 3 vowels can be formed from our existing letter pool.
 ```
 
 ## Combinations: Creating Soccer Teams
