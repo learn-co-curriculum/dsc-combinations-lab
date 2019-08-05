@@ -86,13 +86,6 @@ Imagine you have 6 consonants and 4 vowels written on pieces of paper in a bag. 
 
 Write the code for getting total number of ways of drawing 2 out of 6 and 3 out of 4 below
 
-** solution **
-
-The total number of ways of drawing 2 out of 6 and 3 out of 4 is equal to
-
-$\displaystyle\binom{6}{2} \times \displaystyle\binom{4}{3}$
-
-
 
 ```python
 draw_cons = combination(6,2)
