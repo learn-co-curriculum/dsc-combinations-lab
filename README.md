@@ -237,10 +237,6 @@ third_team = combination(8,4)
 fourth_team = combination(4,4)
 ```
 
-## Summary
-
-In this lab, you got some practice on combinations! Congrats, combinations and permutations are the cornerstones of combinatorics, and you now know how to use them in various settings.
-
 
 ```python
 # __SOLUTION__ 
@@ -254,3 +250,7 @@ total_comb
     2627625.0
 
 
+
+## Summary
+
+In this lab, you got some practice on combinations! Congrats, combinations and permutations are the cornerstones of combinatorics, and you now know how to use them in various settings.
