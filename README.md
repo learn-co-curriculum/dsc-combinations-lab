@@ -46,9 +46,9 @@ Great! We can use these functions in the following exercises.
 
 ## Permutations or Combinations?
 
-Flatiron School is holding a mini mathematics contest, and there are 9 people in the last round. 
+Flatiron School is holding a mini mathematics contest and there are 9 people in the last round. 
 
-#### a. Imagine flatiron school is giving out bronze, silver and gold medal respectively. How many possible ways are there to create this top three?
+#### a. Imagine flatiron school is giving out bronze, silver, and gold medal respectively. How many possible ways are there to create this top three?
 
 
 ```python
@@ -154,17 +154,17 @@ fourth_team = combination(4,4)
 
 
 ```python
-total_comb =(first_team *second_team *third_team* fourth_team) / factorial(4)
+total_comb =(first_team *second_team *third_team* fourth_team)
 total_comb
 ```
 
 
 
 
-    2627625.0
+    63063000.0
 
 
 
 ## Summary
 
-In this lab, you got some practice on combinations! Congrats, combinations and permutations are the cornerstones of combinatorics, and you now know how to use them in various settings.
+In this lab, you got some practice with combinations! Congrats, combinations and permutations are the cornerstones of combinatorics, and you now know how to use them in various settings.
