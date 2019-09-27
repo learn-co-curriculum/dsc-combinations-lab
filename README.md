@@ -64,7 +64,7 @@ scholarship_top_3 # 84.0
 
 ## Some More Practice using Combinations
 
-Imagine you have 6 consonants and 4 vowels written on pieces of paper in a bag. You'll draw 5 letters out of the bag. 
+Imagine you have 6 different consonants and 4 different vowels written on pieces of paper in a bag. You'll draw 5 letters out of the bag. 
 
 #### a. What is the probability that you draw exactly 2 consonants and 3 vowels when drawing 5 letters?
 
