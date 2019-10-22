@@ -9,12 +9,13 @@ Now, let's dive into combinations. In the previous lab, you saw how the order wa
 
 You will be able to: 
 
-- Practice how to use combinations when the order is not important
-- Create (easy) functions for combinations and permutations
+* Decide whether or not permutations and combinations are required for a given problem
+* Use Python to calculate combinations and permutations
+
 
 ## Let's get started
 
-From the previous lab, you remember that we created a factorial function like this.
+From the previous lab, you remember that we created a factorial function.
 
 Now, let's use this factorial function to create a function `combination` as well as `permutation`, both holding 2 arguments n and k.
 
@@ -253,4 +254,4 @@ total_comb
 
 ## Summary
 
-In this lab, you got some practice with combinations! Congrats, combinations and permutations are the cornerstones of combinatorics, and you now know how to use them in various settings.
+In this lab, you got some practice with combinations, and deciding whether or not combinations and permutations are required for a problem. Congrats! Combinations and permutations are the cornerstones of combinatorics, and you now know how to use Python to compute them in various settings.
